@@ -1,6 +1,6 @@
-##nvim config
+# nvim config
 
 Add these config files with:
 
-Linux: ~/.config/nvim
-Windows: ~/AppData/Local/nvim
+- Linux: ~/.config/nvim
+- Windows: ~/AppData/Local/nvim
